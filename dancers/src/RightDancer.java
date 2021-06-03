@@ -3,8 +3,7 @@ import becker.robots.*;
 
 /** RightDancers dance to the right as they move forward.
  *
- * @author Byron Weber Becker 
- * modified by Alexander Chatzigeorgiou */
+ * @author vaios */
  
 public class RightDancer extends Dancer
 {
