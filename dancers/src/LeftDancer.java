@@ -4,7 +4,7 @@ import becker.robots.*;
 /** LeftDancers dance to the left as they move forward.
  *
  * @author Byron Weber Becker 
- * modified by Alexander Chatzigeorgiou*/
+ * modified by vaios*/
 public class LeftDancer extends Dancer
 {	
    public LeftDancer(City c, int str, int ave, Direction dir)
