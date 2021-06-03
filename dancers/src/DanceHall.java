@@ -2,7 +2,7 @@ import becker.robots.*;
 
 /** Run a chorus line of dancing robots. 
  *
- * @author Byron Weber Becker */
+ * @author Byron vaios */
 public class DanceHall
 {
    public static void main(String[] args)
